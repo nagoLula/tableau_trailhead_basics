@@ -19,19 +19,22 @@
   ![Trailhead Badge 1](https://github.com/user-attachments/assets/afc67cc1-4b31-411a-a1c3-aa1d4cf26cf2)
 
   ![Trailhead Badge 2](https://github.com/user-attachments/assets/cd16133a-adcd-428a-99df-b43560371d98)
+  ![my first GBBO viz](https://github.com/user-attachments/assets/72f43fe6-3489-46ba-8d50-833ce2116a55)
 
 
 
 ## Tableau Public Visualizations
 
-- GBBO Viz (Trailhead exercise): [View on Tableau Public](<my GBBO viz URL>)
-- Healthcare Viz (Admissions dataset): [View on Tableau Public](<my healthcare viz URL>)
+- GBBO Viz (Trailhead exercise): [View on Tableau Public](https://public.tableau.com/app/profile/naira.khergiani/viz/MyFirstVizonTableauPublic_17643790360270/Sheet1)
+- Healthcare Viz (Admissions dataset): [View on Tableau Public](https://public.tableau.com/app/profile/naira.khergiani/viz/MonthlyHospitalAdmissionsbyDepartment/Sheet1)
 - Screenshot of published viz:
-  ![Viz Screenshot](images/viz_screenshot.png)
+  ![My First HEalthcare Viz](https://github.com/user-attachments/assets/ee40734e-bb26-47d7-be49-ed54951e3ae1)
 
 ## Reflection
 
-I learned how Tableau relationships differ from joins, and how multiple clauses ensure accurate linking.  
-Publishing to Tableau Public showed me how to share interactive dashboards.  
-In healthcare, similar dashboards could track admissions trends, imaging turnaround times, or readmission rates, supporting workflow optimization and patient‑centered initiatives.
-ad_basics
+*learned*: 
+
+-how Tableau relationships differ from joins, and how multiple clauses ensure accurate linking.  
+-Publishing to Tableau Public showed me how to share interactive dashboards.  
+-will be usefull in healthcare: similar dashboards could track admissions trends, imaging turnaround times, readmission rates, etc.
+
