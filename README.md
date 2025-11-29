@@ -16,8 +16,11 @@
   - Data Storytelling with Tableau Public
   - The Tableau Data Model
 - Screenshots:
-  ![Badge 1](images/badge1.png)
-  ![Badge 2](images/badge2.png)
+  ![Trailhead Badge 1](https://github.com/user-attachments/assets/afc67cc1-4b31-411a-a1c3-aa1d4cf26cf2)
+
+  ![Trailhead Badge 2](https://github.com/user-attachments/assets/cd16133a-adcd-428a-99df-b43560371d98)
+
+
 
 ## Tableau Public Visualizations
 
